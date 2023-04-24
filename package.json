@@ -1,0 +1,16 @@
+{
+  "name": "01-bases",
+  "version": "0.0.1",
+  "description": "Generador de tablas de multiplicar",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "base10": "node app --base=10"
+  },
+  "author": "Daniel Durán",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.7.1"
+  }
+}
