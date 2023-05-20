@@ -1,3 +1,9 @@
+# Tablas de multiplicar
+
+Programa en CLI util para generar tablas de multiplacar en archivos txt.
+
+Tecnologías usadas: NodeJS, Yargs
+
 # Ejecutar:
 
 ```
